@@ -3,7 +3,10 @@ I am Beau Zabdiel Valoria, A web 3.0 and crypto ethusiast, discord developer, co
 
 ## 📜 MY BADGES AND CERTIFCATIONS:
 
-[![comptia-it-fundamentals-itf-certification](https://user-images.githubusercontent.com/89659909/148382984-8203eb6d-7861-414b-be0d-b0fe4998bb9d.png)](https://www.credly.com/badges/973a1b76-a9e3-483d-9cf1-4d0f470f2edd/public_url)
+[![comptia-it-fundamentals-itf-certification (1)](https://user-images.githubusercontent.com/89659909/148480856-4d8774e2-0384-4410-8887-4d2249a4d864.png)](https://www.credly.com/badges/973a1b76-a9e3-483d-9cf1-4d0f470f2edd/public_url)
+[![ibm-blockchain-essentials-v2](https://user-images.githubusercontent.com/89659909/148480859-13d3c1f1-64e7-45cf-b4fa-68094a8b456d.png)](https://www.credly.com/badges/6d68a78c-812b-4dbe-8c4b-51973c151ef0/public_url)
+
+
 
 ## Socials:
 
