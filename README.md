@@ -16,5 +16,5 @@ I am Beau Zabdiel Valoria, A web 3.0 and crypto ethusiast, discord developer, co
 
 ## Join the revolution:
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fethereum-gif-10740818&psig=AOvVaw1ttBfy5DDEAxW7ySiQw_Ly&ust=1641604862656000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCQ-Yy9nvUCFQAAAAAdAAAAABAD "Title") 
+![eth](https://user-images.githubusercontent.com/89659909/148476756-c05ac72d-5cdf-466c-b2c9-441916eec132.gif)
 
