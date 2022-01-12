@@ -6,7 +6,7 @@ I am Beau Zabdiel Valoria, A web 3.0 and crypto ethusiast, discord developer, co
 [![comptia-it-fundamentals-itf-certification (1)](https://user-images.githubusercontent.com/89659909/148480856-4d8774e2-0384-4410-8887-4d2249a4d864.png)](https://www.credly.com/badges/973a1b76-a9e3-483d-9cf1-4d0f470f2edd/public_url)
 [![ibm-blockchain-essentials-v2](https://user-images.githubusercontent.com/89659909/148480859-13d3c1f1-64e7-45cf-b4fa-68094a8b456d.png)](https://www.credly.com/badges/6d68a78c-812b-4dbe-8c4b-51973c151ef0/public_url)
 [![data-science-foundations-level-1](https://user-images.githubusercontent.com/89659909/148484202-1f0b5f16-c0bf-4fb2-8647-60e67c00b117.png)](https://www.credly.com/badges/4597cbbd-bf33-4f33-b11f-6785a0eac71e/public_url)
-[![python-for-data-science](https://user-images.githubusercontent.com/89659909/148933708-0ffec9fb-a2b8-4841-9690-ec35d85c0a4c.png)](https://www.credly.com/badges/b43c0879-632a-43ed-b535-89124e76bd47/public_url)
+[![python-for-data-science](https://user-images.githubusercontent.com/89659909/148933708-0ffec9fb-a2b8-4841-9690-ec35d85c0a4c.png)](https://drive.google.com/uc?export=download&id=11VqvFf7a_ykEdSP1BUfOKUSzMObfqSDM)
 
 
 
