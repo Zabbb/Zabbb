@@ -1,5 +1,5 @@
 # ABOUT ME:
-I am Beau Zabdiel Valoria, A web 3.0 and crypto ethusiast, discord developer, community moderator and currently working with the  [**Official Metana Gaming**](https://discord/metanagaming "Title") for bridging the gap in the **metaverse**.
+I am Beau Zabdiel Valoria, A web 3.0 and crypto ethusiast, discord developer, community moderator and currently working with the  [**Official Metana Gaming**](https://discord/metanagaming) for bridging the gap in the **metaverse**.
 
 ## 📜 MY BADGES AND CERTIFICATIONS:
 
