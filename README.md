@@ -7,7 +7,7 @@ I am Beau Zabdiel Valoria, A web 3.0 and crypto enthusiast, discord developer, c
 [![ibm-blockchain-essentials-v2](https://user-images.githubusercontent.com/89659909/148480859-13d3c1f1-64e7-45cf-b4fa-68094a8b456d.png)](https://www.credly.com/badges/6d68a78c-812b-4dbe-8c4b-51973c151ef0/public_url)
 [![data-science-foundations-level-1](https://user-images.githubusercontent.com/89659909/148484202-1f0b5f16-c0bf-4fb2-8647-60e67c00b117.png)](https://www.credly.com/badges/4597cbbd-bf33-4f33-b11f-6785a0eac71e/public_url)
 [![python-for-data-science](https://user-images.githubusercontent.com/89659909/148933708-0ffec9fb-a2b8-4841-9690-ec35d85c0a4c.png)](https://www.credly.com/badges/b43c0879-632a-43ed-b535-89124e76bd47/public_url)
-[![nfthack-2022-staked-hacker-2022-logo-1642438729591](https://user-images.githubusercontent.com/89659909/149857728-13529e9b-1591-4b07-b8ea-d69cdcac5f34.png)](https://app.poap.xyz/token/3578917)
+
 
 
 ## Socials:
