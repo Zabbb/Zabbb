@@ -4,6 +4,7 @@ I am Beau Zabdiel Valoria, A web 3.0 and crypto enthusiast, discord developer, c
 ## 📜 MY BADGES AND CERTIFICATIONS:
 
 [![comptia-it-fundamentals-itf-certification (1)](https://user-images.githubusercontent.com/89659909/148480856-4d8774e2-0384-4410-8887-4d2249a4d864.png)](https://www.credly.com/badges/973a1b76-a9e3-483d-9cf1-4d0f470f2edd/public_url)
+[![ibm-blockchain-foundation-developer-v2 1](https://user-images.githubusercontent.com/89659909/151186794-6ccd8268-d570-4b4d-82f9-b600ece3ed76.png)](https://www.credly.com/badges/81e90d2f-1166-4b17-9f37-a253f2bf6f94/public_url)
 [![ibm-blockchain-essentials-v2](https://user-images.githubusercontent.com/89659909/148480859-13d3c1f1-64e7-45cf-b4fa-68094a8b456d.png)](https://www.credly.com/badges/6d68a78c-812b-4dbe-8c4b-51973c151ef0/public_url)
 [![cybersecurity-fundamentals](https://user-images.githubusercontent.com/89659909/150621737-b29ea467-0701-4450-b4f5-a5610ae4ff7d.png)](https://www.credly.com/badges/e58ac97d-dec7-4935-8de3-76bce99a0805/public_url)
 [![data-science-foundations-level-1](https://user-images.githubusercontent.com/89659909/148484202-1f0b5f16-c0bf-4fb2-8647-60e67c00b117.png)](https://www.credly.com/badges/4597cbbd-bf33-4f33-b11f-6785a0eac71e/public_url)
