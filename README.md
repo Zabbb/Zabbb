@@ -11,7 +11,6 @@ I am Beau Zabdiel Valoria, A web 3.0 and crypto enthusiast, developer, community
 [![python-for-data-science](https://user-images.githubusercontent.com/89659909/148933708-0ffec9fb-a2b8-4841-9690-ec35d85c0a4c.png)](https://www.credly.com/badges/b43c0879-632a-43ed-b535-89124e76bd47/public_url)
 [![final-](https://user-images.githubusercontent.com/89659909/149858953-1e5fe9c4-7dc7-49ce-8f2c-f9f31ea4e4f2.png)](https://showcase.ethglobal.com/nfthack2022/dop-io)
 [![final-2](https://user-images.githubusercontent.com/89659909/149859453-35d3cf14-8f7b-43ec-8f25-93f61d492950.png)](https://app.poap.xyz/token/3578916)
-[![road-to-web3-staked-hacker-2022-logo-1644550482874](https://user-images.githubusercontent.com/89659909/153539050-9f1ea907-92b4-47bd-93e9-2259cfb2bfd5.png)](https://showcase.ethglobal.com/roadtoweb3/regist-dao)
 
 
 
