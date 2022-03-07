@@ -1,10 +1,12 @@
 # ABOUT ME:
 I am Beau Zabdiel Valoria, A web 3.0 and crypto enthusiast, developer, community manager and currently working with the  [**Official Metana Gaming**](https://discord.gg/metanagaming) for bridging the gap in the **metaverse**.
 
-## 📜 MY BADGES AND CERTIFICATIONS:
-[![272920759_653497165766674_4883150445053488570_n](https://user-images.githubusercontent.com/89659909/153985181-f194d6ea-9cbf-49b6-99e9-680c4ef44d1e.png)](https://www.credly.com/users/beau-zabdiel-valoria/badges)
-[![272847534_398854188668124_181299999464461574_n](https://user-images.githubusercontent.com/89659909/153985198-f1ebaa0e-9d6c-4439-9f13-9499d597f1b8.png)](https://app.poap.xyz/scan/0xD347e8Ae55617F6D9dC719CD1746485f1cCFEC1a)
-
+## 📜 PROJECTS AND INVOLVEMENT:
+Metana Gaming (Head Dev)
+Resort Aliens (CORE team)
+Polygon Advocate
+NFTHACK2022 (DOP.IO)
+ROADTOWEB3 (REGIST.DAO)
 
 
 ## Socials:
