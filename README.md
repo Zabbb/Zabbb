@@ -3,9 +3,13 @@ I am Beau Zabdiel Valoria, A web 3.0 and crypto enthusiast, developer, community
 
 ## 📜 PROJECTS AND INVOLVEMENT:
 Metana Gaming (Head Dev)
+
 Resort Aliens (CORE team)
+
 Polygon Advocate
+
 NFTHACK2022 (DOP.IO)
+
 ROADTOWEB3 (REGIST.DAO)
 
 
