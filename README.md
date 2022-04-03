@@ -1,7 +1,7 @@
 # ABOUT ME:
-I am Beau Zabdiel Valoria, A web 3.0 and crypto enthusiast, developer, community manager and currently working with the  [**Official Metana Gaming**](https://discord.gg/metanagaming) for bridging the gap in the **metaverse**.
+I am Beau Zabdiel Valoria, A web 3.0 and crypto enthusiast, developer, community manager and builder! I have worked with communities both in the Web 2 and Web 3.
 
-# WEBSITE/BLOG🌐:
+# CV/WEBSITE/BLOG🌐:
 Decentralized (IPFS + ENS)
 https://zabdiel.eth.link
 
