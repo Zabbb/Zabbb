@@ -3,7 +3,7 @@ I am Beau Zabdiel Valoria, A web 3.0 and crypto enthusiast, developer, community
 
 # CV/WEBSITE/BLOG🌐:
 Decentralized (IPFS + ENS)
-https://zabdiel.eth.link
+https://zabdiel.eth.limo
 
 
 ## Socials:
