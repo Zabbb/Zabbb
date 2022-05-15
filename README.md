@@ -19,3 +19,5 @@ https://zabdiel.eth.limo
 
 ![eth](https://user-images.githubusercontent.com/89659909/148476756-c05ac72d-5cdf-466c-b2c9-441916eec132.gif)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zabbb &theme=merko)
+
