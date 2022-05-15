@@ -1,7 +1,15 @@
-
+![linkedin banner1](https://user-images.githubusercontent.com/89659909/168488777-d280aee1-9513-44a3-aeb2-d4459853769a.png)
 
 # ABOUT ME💻:
-I am Beau Zabdiel Valoria, A web 3.0 and crypto enthusiast, developer, community manager and builder! I have worked with communities both in the Web 2 and Web 3.
+I am Beau Zabdiel Valoria, A web 3.0 and crypto enthusiast, developer, community manager and builder! I have worked with communities both in the Web 2 and Web 3 space.
+
+
+💼 **Founder and CEO**, The BlockChime
+
+💼 **Lead Dev and Moderator**, Metana Guild
+
+💼 **Official Advocate**, Polygon
+
 
 # CV/WEBSITE/BLOG🌐:
 Decentralized (IPFS + ENS)
