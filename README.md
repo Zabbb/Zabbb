@@ -1,9 +1,11 @@
-# ABOUT ME:
+
+
+# ABOUT ME💻:
 I am Beau Zabdiel Valoria, A web 3.0 and crypto enthusiast, developer, community manager and builder! I have worked with communities both in the Web 2 and Web 3.
 
 # CV/WEBSITE/BLOG🌐:
 Decentralized (IPFS + ENS)
-https://zabdiel.eth.limo
+🌐**https://zabdiel.eth.limo**
 
 
 ## Socials:
@@ -15,9 +17,12 @@ https://zabdiel.eth.limo
 [![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZabbZabbbbb)
 
 
-## Join the revolution:
+## JOIN THE REVOLUTION👷:
 
 ![eth](https://user-images.githubusercontent.com/89659909/148476756-c05ac72d-5cdf-466c-b2c9-441916eec132.gif)
+<a href="https://app.daily.dev/beauzabdiel"><img src="https://api.daily.dev/devcards/9ad84929a3254c67a129c138478dc243.png?r=07z" width="200" alt="zabdiel.eth's Dev Card"/></a>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zabbb&theme=dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zabbb&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
