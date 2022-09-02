@@ -5,7 +5,9 @@ I am Beau Zabdiel Valoria, A web 3.0 and crypto enthusiast, developer, community
 
 
 💼 **Chief Executive Officer**, BlockChime
+
 💼 **Official Dev Advocate**, Polygon
+
 💼 **Community Advocate**, Graph Protocol
 
 Github Edu Class of @2022
