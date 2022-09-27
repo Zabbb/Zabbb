@@ -1,3 +1,4 @@
+[![@zabdiel's Holopin board](https://holopin.io/api/user/board?user=zabdiel)](https://holopin.io/@zabdiel)
 # ABOUT ME💻:
 I am Beau Zabdiel Valoria, A web 3.0 and crypto enthusiast, developer, community manager and builder! I have worked with communities both in the Web 2 and Web 3 space.
 
