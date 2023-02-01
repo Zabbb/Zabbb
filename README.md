@@ -6,7 +6,7 @@ I am Beau Zabdiel Valoria, A Web3 and crypto enthusiast, developer, community ma
 
 💼 **Official Dev Advocate**, 0xPolygon
 
-💼 **Community Advocate**, Graph Protocol
+💼 **Dev Advocate**, Graph Protocol
 
 Github Edu Class of @2022
 
