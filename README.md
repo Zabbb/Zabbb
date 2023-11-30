@@ -4,9 +4,9 @@ I am Beau Zabdiel Valoria, A Web3 and crypto enthusiast, developer, community ma
 
 💼 **Co Founder**, Web3 Phillippines
 
-💼 **Official Dev Advocate**, 0xPolygon
+💼 **Developer Advocate and Guild Mage**, Polygon Labs
 
-💼 **Dev Advocate**, Graph Protocol
+💼 **Prev. Community Programs Lead (DevRel / Community)**, Mantle Network
 
 Github Edu Class of @2022
 
